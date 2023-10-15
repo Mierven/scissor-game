@@ -1,0 +1,19 @@
+
+#game-container {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: auto;
+
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#result {
+    margin-top: 20px;
+}
+section img {height: 100px;
+     width: 20px;}
